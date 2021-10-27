@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="117.5"
-     inkscape:cy="80.75"
+     inkscape:cx="53.75"
+     inkscape:cy="148.75"
      inkscape:window-width="1438"
      inkscape:window-height="1027"
      inkscape:window-x="241"
@@ -173,8 +173,8 @@
     <circle
        style="font-variation-settings:'wght' 700;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374999;stroke-linecap:round;stroke-linejoin:round"
        id="path1840"
-       cx="2.8161833"
-       cy="2.8296063"
+       cx="2.733501"
+       cy="64.758644"
        r="0.25"
        inkscape:label="dot" />
     <rect
@@ -225,26 +225,25 @@
        inkscape:label="vertical crosshair" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 2.5395454,2.4341382 V 65.190825"
+       d="M 2.5395454,2.4341382 V 65.050508"
        id="path1189"
        inkscape:label="left side"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 52.539803,2.3631341 2.5395454,2.5584848"
+       d="M 52.572876,2.4011365 2.4485949,2.3990591"
        id="path1224"
        sodipodi:nodetypes="cc"
        inkscape:label="top" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 2.5395454,65.128692 52.602912,65.0799"
+       d="m 2.4167685,64.988375 50.1276785,-0.002"
        id="path1316"
        sodipodi:nodetypes="cc"
-       inkscape:label="bottom"
-       sodipodi:insensitive="true" />
+       inkscape:label="bottom" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.125122;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 52.602911,65.141915 52.478416,2.238893"
+       d="M 52.509368,65.0799 52.519757,2.2802341"
        id="path1450"
        sodipodi:nodetypes="cc"
        inkscape:label="right" />
